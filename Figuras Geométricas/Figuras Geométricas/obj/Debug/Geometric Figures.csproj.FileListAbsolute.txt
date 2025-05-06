@@ -1,0 +1,22 @@
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe.config
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.pdb
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Geometric Figures.csproj.AssemblyReference.cache
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.frmMenu.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Triangle.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Properties.Resources.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Geometric Figures.csproj.GenerateResource.cache
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Geometric Figures.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.exe
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.pdb
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Circle.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Deltoid.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Diamond.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Ellipse.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Rectangle.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Rhomboid.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Semicircle.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Square.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Star.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Trapeze.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Logic.Figures.Trapezium.resources

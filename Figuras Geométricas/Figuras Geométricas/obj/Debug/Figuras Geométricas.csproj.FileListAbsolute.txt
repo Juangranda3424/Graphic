@@ -1,0 +1,10 @@
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe.config
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.pdb
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.AssemblyReference.cache
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.frmMenu.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Properties.Resources.resources
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.GenerateResource.cache
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.exe
+C:\Users\JUAN\source\repos\Figuras Geométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.pdb

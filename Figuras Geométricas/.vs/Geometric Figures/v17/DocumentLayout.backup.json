@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\rhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\rhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\figures\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\figures\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\deltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\deltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\semicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\semicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\trapezium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\trapezium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\classes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\classes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\logic\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\logic\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|c:\\users\\juan\\source\\repos\\figuras geom\u00E9tricas\\figuras geom\u00E9tricas\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73000E80-CFCD-4CF2-AC89-E4FD99046C4B}|Figuras Geom\u00E9tricas\\Geometric Figures.csproj|solutionrelative:figuras geom\u00E9tricas\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\frmMenu.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\frmMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:41:38.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Rectangle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:31:39.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deltoid.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Deltoid.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Deltoid.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Deltoid.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Deltoid.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:08:23.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Circle.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Circle.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Circle.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Circle.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:08:43.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ellipse.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Ellipse.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Ellipse.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Ellipse.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Ellipse.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwF8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:29:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trapeze.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapeze.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapeze.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapeze.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapeze.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:06:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diamond.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Diamond.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Diamond.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Diamond.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Diamond.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:25:00.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rhomboid.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Rhomboid.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Rhomboid.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Rhomboid.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Rhomboid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:31:42.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Triangle.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Triangle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:56:30.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diamond.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Figures\\Diamond.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Figures\\Diamond.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Figures\\Diamond.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Figures\\Diamond.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:28:40.743Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Triangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:02:46.726Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Figures\\Triangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:02:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Star.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Star.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Star.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Star.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:07:13.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\frmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\frmMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\frmMenu.Designer.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\frmMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:41:26.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:41:20.844Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Figure.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Figure.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Figure.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Figure.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:22:47.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Program.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Program.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Program.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:53:30.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trapezium.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapezium.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapezium.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapezium.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Trapezium.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:47:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SemiCircle.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\SemiCircle.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\SemiCircle.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\SemiCircle.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\SemiCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:23:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Square.cs",
+              "RelativeDocumentMoniker": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Square.cs",
+              "ToolTip": "C:\\Users\\JUAN\\source\\repos\\Figuras Geom\u00E9tricas\\Figuras Geom\u00E9tricas\\Logic\\Classes\\Square.cs",
+              "RelativeToolTip": "Figuras Geom\u00E9tricas\\Logic\\Classes\\Square.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:23:38.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
